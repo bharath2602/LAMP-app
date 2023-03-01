@@ -1,5 +1,3 @@
-- Place the .php files under the directory /var/www/html
-
 # LAMP
 
 Stack that includes Linux os, Apache serer, Mysql DB, PHP
