@@ -1,5 +1,5 @@
 CREATE DATABASE sample_app;
-CREATE USER 'sample_user'@'localhost' IDENTIFIED BY 'password';
+CREATE USER 'sample_user'@'localhost' IDENTIFIED BY '@Passw0rd';
 GRANT ALL PRIVILEGES ON sample_app.* TO 'sample_user'@'localhost';
 FLUSH PRIVILEGES;
 
